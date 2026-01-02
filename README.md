@@ -3,7 +3,7 @@ All documentation is on [this single wiki page](https://github.com/T-T-Team/Tark
 
 In case you have additional questions or do not understand anything, feel free to reach to us on our [Discord](https://discord.gg/WEFYxwS8E3)
 
-In case you are looking for the mod files, you can obtain them either on curseforge or modrinth
+If you are a user just looking to play, you can download the mods either from CurseForge or Modrinth
 - Configuration - required dependency - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configuration) / [Modrinth](https://modrinth.com/mod/configuration)
 - TarkovCraft: Core - main module/library - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tarkovcraft-core) / [Modrinth](https://modrinth.com/mod/tarkovcraft-core)
 - Medical system - hitboxes, health system - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/med-system) / [Modrinth](https://modrinth.com/mod/med-system)
